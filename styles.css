@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.row{
+	display:grid;
+	grid-template-columns:30% auto auto;
+	gap:5px;
+}
+img{
+	width:60px;
+}
